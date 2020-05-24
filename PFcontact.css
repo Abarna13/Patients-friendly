@@ -1,0 +1,61 @@
+body{
+  margin:0;
+  padding:0;
+  background-image:url("img9.jpg");
+  background-size:cover;
+}
+.contact-form{
+  width:85%;
+  max width:600%;
+  background:#E6E6FA;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50% ,-50%);
+  padding:30px 40px;
+  box-sizing:border-box;
+  border-radius:8px;
+  text-align:center;
+  box-shadow:0 0 20px #000000b3;
+  font-family:"Monteserrat",sans-serif;
+}
+.contact form h1{
+  margin-top:0;
+  font-weight:200%;
+}
+.txtb{
+  border:1px solid gray;
+  margin:8px 0;
+  border-radius:8px;
+  }
+ 
+.txtb label{
+  display: block;
+  text-align:left;
+  color:#333;
+  text-transform:uppercase;
+  font-size:14px;
+}
+.txth input ,.txtb textarea{
+  width:100%;
+  border:none;
+  background:none;
+  outline:none;
+  font-size:18px;
+  margin-top:6px;
+}
+.btn{
+  display: block;
+  border-radius:8px;
+  background-color:#9b59b6;
+  padding:14px 10px;
+  text-transform:uppercase;
+  cursor:pointer;
+  margin-top:8px;
+  width:740px;
+}
+
+.pre{
+  padding-bottom: 100px;
+
+}
